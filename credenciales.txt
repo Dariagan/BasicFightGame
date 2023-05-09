@@ -1,0 +1,6 @@
+contraseña zona admininistrador: admin
+
+una cuenta ejemplo:
+
+usuario: usuarioEjemplo
+contraseña: 1234
